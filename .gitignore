@@ -1,5 +1,4 @@
 # conda installers
 env/Miniforge3-*.sh
-data/raw/pod5/
-*.pod5
 .DS_Store
+dorado-1.4.0-osx-arm64/
